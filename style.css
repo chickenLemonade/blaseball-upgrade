@@ -9,7 +9,7 @@
     font-style: italic;
 }
 
-.game-widget__player,  .playtab__weather__label, .League-DivisionCard-TeamName, .RankTeam {
+.game-widget__player,  .playtab__weather__label, .League-DivisionCard-TeamName, .RankTeam, .WinLoss {
     font-family: Open Sans, Courier New, monospace;
 }
 
