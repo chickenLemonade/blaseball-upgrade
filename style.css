@@ -3,12 +3,18 @@
     font-weight: 700;
 }
 
-.jumbo-h1 {
+.jumbo-h1, .League-DivisionCard-Title {
     font-family: Open Sans, Courier New, monospace;
     font-weight: 700;
     font-style: italic;
 }
 
-.game-widget__player, .game-header__team, .game-header__team--away {
+.game-widget__player,  .playtab__weather__label, .League-DivisionCard-TeamName, .RankTeam {
     font-family: Open Sans, Courier New, monospace;
+}
+
+.game-header__team, .game-header__team--away {
+  font-family: Open Sans, Courier New, monospace;
+  font-weight: 700;
+  font-size: 13pt;
 }
