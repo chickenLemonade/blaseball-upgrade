@@ -1,0 +1,14 @@
+.label-serif-medium, .label-sans-medium, .label-mono-small, .h2, .p-small, .label-sans-small, .label-mono-medium {
+    font-family: Open Sans, Courier New, monospace;
+    font-weight: 700;
+}
+
+.jumbo-h1 {
+    font-family: Open Sans, Courier New, monospace;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.game-widget__player {
+    font-family: Open Sans, Courier New, monospace;
+}
