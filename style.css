@@ -9,6 +9,6 @@
     font-style: italic;
 }
 
-.game-widget__player {
+.game-widget__player, .game-header__team, .game-header__team--away {
     font-family: Open Sans, Courier New, monospace;
 }
