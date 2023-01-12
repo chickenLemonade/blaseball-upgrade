@@ -6,3 +6,4 @@
 
 ### How to use
 - Must have Stylus browser extension installed (this runs the script on the web page)
+- Copy code from style.css
